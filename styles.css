@@ -41,6 +41,14 @@
     padding:0px;
     margin:0px;
 }
+#home #para{
+    font-family: paragraph;
+    font-size:4vw;
+    letter-spacing:.05vw;
+    color:rgb(255, 255, 255);
+   /* margin-top: 508px;*/
+    padding:0px;
+}
 .img-fluid{
     max-width: 100%;
     height: auto;
@@ -85,5 +93,62 @@
     font-size:5vw;
     letter-spacing: 0.125rem;
     color:rgb(0, 0, 0);   
+    padding:0px;
+}
+#whyattend #para{
+    font-family: paragraph;
+    font-size:4vw;
+    letter-spacing:.05vw;
+    color:rgb(0, 0, 0);
+   /* margin-top: 508px;*/
+    padding:0px;
+}
+#whenwhere{
+    background-color: rgb(123, 31, 228);
+    min-height: 100vh;
+}
+#whenwhere #heading{
+    font-family: heading;
+    font-size:26vw;
+    position: relative;
+    letter-spacing: 0.125rem;
+    color:rgb(254, 254, 255);
+  /*  margin-top: 256px;*/
+    line-height: 32vw;
+    padding:0px;
+}
+#whenwhere #heading2{
+    font-family: heading;
+    font-size:26vw;
+    position: relative;
+    letter-spacing: 0.125rem;
+    color:rgb(254, 254, 255);
+  /*  margin-top: 256px;*/
+    line-height: 5vw;
+    padding:0px;
+}
+#whenwhere #sub-heading{
+    font-family: heading;
+    position: relative;
+    font-size:10vw;
+    letter-spacing: 0.125rem;
+    color:rgb(255, 255, 255);
+   /* margin-top: 400px;*/
+    line-height: 15vw;
+    padding:0px;
+}
+#whenwhere #sub-para{
+    font-family: paragraph;
+    font-size:5vw;
+    letter-spacing: 0.125rem;
+    color:rgb(255, 255, 255);   
+    padding:0px;
+}
+#whenwhere #para{
+    font-family: paragraph;
+    font-size:4vw;
+    letter-spacing:.05vw;
+    color:rgb(255, 255, 255);
+   /* margin-top: 508px;*/
     padding:0px;
 }
