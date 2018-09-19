@@ -8,6 +8,7 @@
 }
 #home{
     background-color: rgb(24,24,24);
+    min-height: 100vh;
 }
 #home #heading{
     font-family: heading;
