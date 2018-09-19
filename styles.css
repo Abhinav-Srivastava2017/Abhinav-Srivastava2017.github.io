@@ -45,3 +45,45 @@
     max-width: 100%;
     height: auto;
 }
+#whyattend{
+    min-height: 100vh;
+}
+#whyattend #heading{
+    font-family: heading;
+    font-size:40vw;
+    position: relative;
+    letter-spacing: 0.125rem;
+    text-shadow: -0.125rem 0 black, 0 0.125rem black, 0.125rem 0 black, 0 -0.125rem black;
+    color:rgb(254, 254, 255);
+  /*  margin-top: 256px;*/
+    line-height: 45vw;
+    padding:0px;
+}
+#whyattend #heading2{
+    font-family: heading;
+    font-size:40vw;
+    position: relative;
+    letter-spacing: 0.125rem;
+    text-shadow: -0.125rem 0 black, 0 0.125rem black, 0.125rem 0 black, 0 -0.125rem black;
+    color:rgb(254, 254, 255);
+  /*  margin-top: 256px;*/
+      line-height: 10vw;
+    padding:0px;
+}
+#whyattend #sub-heading{
+    font-family: heading;
+    position: relative;
+    font-size:11vw;
+    letter-spacing: 0.125rem;
+    color:rgb(13, 13, 14);
+   /* margin-top: 400px;*/
+    line-height: 15vw;
+    padding:0px;
+}
+#whyattend #sub-para{
+    font-family: paragraph;
+    font-size:5vw;
+    letter-spacing: 0.125rem;
+    color:rgb(0, 0, 0);   
+    padding:0px;
+}
