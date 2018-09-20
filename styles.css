@@ -6,6 +6,9 @@
     font-family: paragraph;
     src: url("Assets/Fonts/SF Pro Text/SF-Pro-Text-Medium.otf");
 }
+.container-fluid{
+    margin: 0;
+}
 #home{
     background-color: rgb(24,24,24);
     min-height: 100vh;
