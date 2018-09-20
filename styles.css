@@ -196,6 +196,9 @@
    /* margin-top: 508px;*/
     padding:0px;
 }
+#contactus{
+    width: 100%;
+}
 #contactus #para{
     font-family: paragraph;
     font-size:6vw;
@@ -203,5 +206,8 @@
     color:rgb(0, 0, 0);
    /* margin-top: 508px;*/
     padding:0px;
+}
+#contactus #comment,#usrname,#usremail,#usrsub{
+    width: 100%;
 }
 
