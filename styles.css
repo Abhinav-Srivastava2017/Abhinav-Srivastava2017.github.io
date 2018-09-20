@@ -160,20 +160,36 @@
 }
 #about #heading{
     font-family: heading;
-    font-size:20vw;
+    font-size:24vw;
     position: relative;
     letter-spacing: 0.125rem;
     color:rgb(254, 254, 255);
-    line-height: 24vw;
+    line-height: 30vw;
     padding:0px;
+    margin: 0;
 }
 #about #sub-heading{
     font-family: heading;
-    font-size:10vw;
+    font-size:12vw;
     position: relative;
-    letter-spacing: .5vw;
+    letter-spacing: 0.125rem;
     color:rgb(255, 255, 255);
    /* margin-top: 400px;*/
-   line-height: 0vw;
+   line-height: 5vw;
+    padding:0px;
+}
+#about #sub-para{
+    font-family: paragraph;
+    font-size:5vw;
+    letter-spacing: 0.125rem;
+    color:rgb(255, 255, 255);   
+    padding:0px;
+}
+#about #para{
+    font-family: paragraph;
+    font-size:4vw;
+    letter-spacing:.05vw;
+    color:rgb(255, 255, 255);
+   /* margin-top: 508px;*/
     padding:0px;
 }
